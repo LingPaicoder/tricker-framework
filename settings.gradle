@@ -1,2 +1,2 @@
 rootProject.name = 'tricker-framework'
-include ':tricker-common'
+include 'tricker-common'
